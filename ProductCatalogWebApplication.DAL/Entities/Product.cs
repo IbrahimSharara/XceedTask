@@ -17,6 +17,7 @@ namespace ProductCatalogWebApplication.DAL.Entities
         [Column(TypeName = "date")]
         public DateTime CreationDate { get; set; }
         public string CreatedBy { get; set; }
+        public string LastUpdatedBy { get; set; }
         [Column(TypeName = "date")]
         public DateTime StartDate { get; set; }
         public float Price { get; set; }

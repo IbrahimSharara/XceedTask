@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mK0w3iAy2iUPKn6J1/TfgZ5oI93knyq9XvRJpWjSyXs=",
+  "Hash": "vCAbi8WD18S5ykiwinY0+IxyeG3UOU40+bbIdoYqh1g=",
   "Source": "ProductCatalogWebApplication.WebUI",
   "BasePath": "_content/ProductCatalogWebApplication.WebUI",
   "Mode": "Default",
@@ -32215,23 +32215,6 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-iconpicker\\js\\fontawesome-iconpicker.min.js"
     },
     {
-      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_118_Sun-deck-12.jpg",
-      "SourceId": "ProductCatalogWebApplication.WebUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\",
-      "BasePath": "_content/ProductCatalogWebApplication.WebUI",
-      "RelativePath": "images/_118_Sun-deck-12.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\_118_Sun-deck-12.jpg"
-    },
-    {
       "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_120_2.jpg",
       "SourceId": "ProductCatalogWebApplication.WebUI",
       "SourceType": "Discovered",
@@ -32249,12 +32232,12 @@
       "OriginalItemSpec": "wwwroot\\images\\_120_2.jpg"
     },
     {
-      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_189_Exterior.jpg",
+      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_200__.jpg",
       "SourceId": "ProductCatalogWebApplication.WebUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\",
       "BasePath": "_content/ProductCatalogWebApplication.WebUI",
-      "RelativePath": "images/_189_Exterior.jpg",
+      "RelativePath": "images/_200__.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32263,15 +32246,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\_189_Exterior.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\_200__.jpg"
     },
     {
-      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_195_95.jpg",
+      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_2182_1.jpg",
       "SourceId": "ProductCatalogWebApplication.WebUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\",
       "BasePath": "_content/ProductCatalogWebApplication.WebUI",
-      "RelativePath": "images/_195_95.jpg",
+      "RelativePath": "images/_2182_1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32280,15 +32263,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\_195_95.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\_2182_1.jpg"
     },
     {
-      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_233_DSC01117.jpg",
+      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_266_Suite-Living-Room.jpg",
       "SourceId": "ProductCatalogWebApplication.WebUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\",
       "BasePath": "_content/ProductCatalogWebApplication.WebUI",
-      "RelativePath": "images/_233_DSC01117.jpg",
+      "RelativePath": "images/_266_Suite-Living-Room.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32297,41 +32280,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\_233_DSC01117.jpg"
-    },
-    {
-      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_340_6.jpg",
-      "SourceId": "ProductCatalogWebApplication.WebUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\",
-      "BasePath": "_content/ProductCatalogWebApplication.WebUI",
-      "RelativePath": "images/_340_6.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\_340_6.jpg"
-    },
-    {
-      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\_345_Cabin-2.jpg",
-      "SourceId": "ProductCatalogWebApplication.WebUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\",
-      "BasePath": "_content/ProductCatalogWebApplication.WebUI",
-      "RelativePath": "images/_345_Cabin-2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\_345_Cabin-2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\_266_Suite-Living-Room.jpg"
     },
     {
       "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\loader.svg",
@@ -32349,23 +32298,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\loader.svg"
-    },
-    {
-      "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\images\\Screenshot 2023-05-24 192311.png",
-      "SourceId": "ProductCatalogWebApplication.WebUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\",
-      "BasePath": "_content/ProductCatalogWebApplication.WebUI",
-      "RelativePath": "images/Screenshot 2023-05-24 192311.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Screenshot 2023-05-24 192311.png"
     },
     {
       "Identity": "C:\\Works\\Projects\\ProductCatalogWebApplication\\ProductCatalogWebApplication.WebUI\\wwwroot\\js\\aos.js",

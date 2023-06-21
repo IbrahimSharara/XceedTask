@@ -12,7 +12,7 @@ using ProductCatalogWebApplication.DAL.Entities;
 namespace ProductCatalogWebApplication.DAL.Migrations
 {
     [DbContext(typeof(SystemContext))]
-    [Migration("20230621132403_v1")]
+    [Migration("20230621175244_v1")]
     partial class v1
     {
         /// <inheritdoc />
@@ -271,6 +271,10 @@ namespace ProductCatalogWebApplication.DAL.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Image")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastUpdatedBy")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")

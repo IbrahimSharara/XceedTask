@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using ProductCatalogWebApplication.BLL.InterFaces;
 using ProductCatalogWebApplication.DAL.Entities;
 using ProductCatalogWebApplication.ViewModels.ViewModels;
@@ -9,18 +10,26 @@ namespace ProductCatalogWebApplication.WebUI.Controllers
     {
         public IProductRepository Product { get; }
         public ICategoryRepository Category { get; }
-        public ProductController(IProductRepository product, ICategoryRepository category)
+        public UserManager<ApplicationUser> _userManager { get; }
+
+        public ProductController(IProductRepository product, ICategoryRepository category , UserManager<ApplicationUser> user)
         {
             Product = product;
             Category = category;
+            _userManager = user;
         }
 
+        public async Task<IActionResult> Details(int id)
+        {
+            var product =await Product.GetByID(id);
+            return View(product);
+        }
 
-        public IActionResult Index()
+            public IActionResult Index()
         {
             var model = new ForAllProducts
             {
-                Products = Product.GetAll(),
+                Products = Product.ProductsWithCategory(),
                 Categories = Category.GetAll()
             };
             return View(model);
@@ -32,10 +41,14 @@ namespace ProductCatalogWebApplication.WebUI.Controllers
             tbl.CreationDate = DateTime.Now;
             tbl.StartDate = DateTime.Now;
             tbl.Details = "";
-            tbl.CreatedBy = TempData["userId"].ToString();
+            string? userName = GetCurrentUserAsync().Result.UserName;
+            tbl.CreatedBy = userName?? "";
+            tbl.LastUpdatedBy = userName?? "";
             await Product.Add(tbl);
             return Redirect("/EditProduct/" + tbl.Id);
         }
+
+        private Task<ApplicationUser> GetCurrentUserAsync() => _userManager.GetUserAsync(HttpContext.User);
 
         [Route("/EditProduct/{id}")]
         public async Task<IActionResult> Edit(int id)
@@ -58,6 +71,8 @@ namespace ProductCatalogWebApplication.WebUI.Controllers
             old.Duration = tbl.Duration;
             old.CategoryId = tbl.CategoryId;
             old.Details = tbl.Details;
+            string? userName = GetCurrentUserAsync().Result.UserName;
+            old.LastUpdatedBy = userName ?? "";
             await Product.Update(old);
             return Redirect("/EditProduct/"+tbl.Id);
         }
@@ -71,6 +86,8 @@ namespace ProductCatalogWebApplication.WebUI.Controllers
                 string imagePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", imageName);
                 image.CopyTo(new FileStream(imagePath, FileMode.Create));
                 old.Image = imageName;
+                string? userName = GetCurrentUserAsync().Result.UserName;
+                old.LastUpdatedBy = userName ?? "";
                 await Product.Update(old);
             }
             

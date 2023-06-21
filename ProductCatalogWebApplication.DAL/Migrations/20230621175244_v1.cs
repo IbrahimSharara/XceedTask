@@ -179,6 +179,7 @@ namespace ProductCatalogWebApplication.DAL.Migrations
                     Name = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
                     CreationDate = table.Column<DateTime>(type: "date", nullable: false),
                     CreatedBy = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    LastUpdatedBy = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     StartDate = table.Column<DateTime>(type: "date", nullable: false),
                     Price = table.Column<float>(type: "real", nullable: false),
                     Duration = table.Column<int>(type: "int", nullable: false),

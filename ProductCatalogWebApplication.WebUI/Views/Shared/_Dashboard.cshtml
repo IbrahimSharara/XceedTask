@@ -10,7 +10,7 @@
     <meta name='viewport' content='width=device-width, initial-scale=1' />
 
     <!-- TITLE -->
-    <title> CMS</title>
+    <title> Dashboard</title>
 
     <!-- FAVICON -->
     <!-- BOOTSTRAP CSS -->
@@ -35,7 +35,7 @@
     <link href="~/css/demo.css" rel="stylesheet" />
 
     @RenderSection("datatable" , false)
-    
+
 </head>
 <body class="app sidebar-mini ltr">
     <!--GLOBAL LOADER -->
@@ -51,7 +51,7 @@
             <div class="app-header header sticky">
                 <div class="container-fluid main-container">
                     <div class="d-flex">
-                        
+
                         <!--End SEARCH -->
                         <div class="d-flex order-lg-2 ms-auto header-right-icons">
                             <div class="dropdown d-none">
@@ -111,7 +111,11 @@
             <div class="sticky">
                 <div class="app-sidebar__overlay" data-bs-toggle="sidebar"></div>
                 <div class="app-sidebar">
-                   
+                    <div class="side-header">
+                        <a class="header-brand1" href="/cms">
+                            <h1 class="logo me-auto"><a href="/home">Home Page</a></h1>
+                        </a>
+                    </div>
                     <!-- End logo-->
                     <div class="main-sidemenu">
                         <div class="slide-left disabled" id="slide-left">
@@ -153,7 +157,7 @@
             <div class="container">
                 <div class="row align-items-center flex-row-reverse">
                     <div class="col-lg-12 col-sm-12   text-center">
-                        
+
                         <p class="clearfix blue-grey lighten-2 text-sm-center mb-0 px-2 container center-layout"><span class="float-md-left d-block d-md-inline-block">Copyright  &copy; @DateTime.Now.Year Products, All rights reserved. </span><span class="float-md-right d-block d-md-inline-blockd-none d-lg-block">Powered By <a href="https://Xceedcc.com" target="_blank">Xceedcc.com</a> </span></p>
                     </div>
                 </div>
@@ -181,7 +185,7 @@
     <!-- SIDEMENU JS -->
     <script src="~/js/sidemenu.js"></script>
 
-    
+
 
     <!-- PERFECT-SCROLLBAR JS  -->
     <script src="~/cms/assets/plugins/p-scroll/perfect-scrollbar.js"></script>
@@ -274,7 +278,7 @@
     <!-- SCRIPTS CLOSED -->
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
-    
+
 </body>
 </html>
 

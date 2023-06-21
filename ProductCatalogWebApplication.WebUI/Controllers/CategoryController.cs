@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProductCatalogWebApplication.BLL.InterFaces;
 using ProductCatalogWebApplication.DAL.Entities;
-using ProductCatalogWebApplication.WebUI.ForDataSeeding;
-using System.Text.Json;
 
 namespace ProductCatalogWebApplication.WebUI.Controllers
 {

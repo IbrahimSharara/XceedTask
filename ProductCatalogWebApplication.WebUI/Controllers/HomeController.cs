@@ -22,7 +22,7 @@ namespace ProductCatalogWebApplication.WebUI.Controllers
             HomeViewModel model = new HomeViewModel()
             {
                 Categories = Category.GetAll(),
-                Products = Product.GetAll().Where(x => x.StartDate >= DateTime.Now.Date || x.StartDate.AddDays(x.Duration) >= DateTime.Now.Date).ToList()
+                Products = Product.ProductsWithCategory().Where(x => x.StartDate >= DateTime.Now.Date || x.StartDate.AddDays(x.Duration) >= DateTime.Now.Date).ToList()
             };
             return View(model);
         }
