@@ -1,0 +1,14 @@
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\bin\Debug\net7.0\ProductCatalogWebApplication.DAL.deps.json
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\bin\Debug\net7.0\ProductCatalogWebApplication.DAL.runtimeconfig.json
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\bin\Debug\net7.0\ProductCatalogWebApplication.DAL.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\bin\Debug\net7.0\ProductCatalogWebApplication.DAL.pdb
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\ProductCatalogWebApplication.DAL.csproj.AssemblyReference.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\ProductCatalogWebApplication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\ProductCatalogWebApplication.DAL.AssemblyInfoInputs.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\ProductCatalogWebApplication.DAL.AssemblyInfo.cs
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\ProductCatalogWebApplication.DAL.csproj.CoreCompileInputs.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\ProductCatalogWebApplication.DAL.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\refint\ProductCatalogWebApplication.DAL.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\ProductCatalogWebApplication.DAL.pdb
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\ProductCatalogWebApplication.DAL.genruntimeconfig.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.DAL\obj\Debug\net7.0\ref\ProductCatalogWebApplication.DAL.dll

@@ -1,0 +1,15 @@
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\bin\Debug\net7.0\ProductCatalogWebApplication.BLL.deps.json
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\bin\Debug\net7.0\ProductCatalogWebApplication.BLL.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\bin\Debug\net7.0\ProductCatalogWebApplication.BLL.pdb
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\ProductCatalogWebApplication.BLL.csproj.AssemblyReference.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\ProductCatalogWebApplication.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\ProductCatalogWebApplication.BLL.AssemblyInfoInputs.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\ProductCatalogWebApplication.BLL.AssemblyInfo.cs
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\ProductCatalogWebApplication.BLL.csproj.CoreCompileInputs.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\ProductCatalogWebApplication.BLL.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\refint\ProductCatalogWebApplication.BLL.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\ProductCatalogWebApplication.BLL.pdb
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\ref\ProductCatalogWebApplication.BLL.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\bin\Debug\net7.0\ProductCatalogWebApplication.DAL.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\bin\Debug\net7.0\ProductCatalogWebApplication.DAL.pdb
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.BLL\obj\Debug\net7.0\ProductCatalogWebApplication.BLL.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\bin\Debug\net7.0\ProductCatalogWebApplication.ViewModels.deps.json
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\bin\Debug\net7.0\ProductCatalogWebApplication.ViewModels.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\bin\Debug\net7.0\ProductCatalogWebApplication.ViewModels.pdb
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\bin\Debug\net7.0\ProductCatalogWebApplication.DAL.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\bin\Debug\net7.0\ProductCatalogWebApplication.DAL.pdb
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\ProductCatalogWebApplication.ViewModels.csproj.AssemblyReference.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\ProductCatalogWebApplication.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\ProductCatalogWebApplication.ViewModels.AssemblyInfoInputs.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\ProductCatalogWebApplication.ViewModels.AssemblyInfo.cs
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\ProductCatalogWebApplication.ViewModels.csproj.CoreCompileInputs.cache
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\ProductCatalogWebApplication.ViewModels.csproj.CopyComplete
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\ProductCatalogWebApplication.ViewModels.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\refint\ProductCatalogWebApplication.ViewModels.dll
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\ProductCatalogWebApplication.ViewModels.pdb
+C:\Works\Projects\ProductCatalogWebApplication\ProductCatalogWebApplication.ViewModels\obj\Debug\net7.0\ref\ProductCatalogWebApplication.ViewModels.dll
